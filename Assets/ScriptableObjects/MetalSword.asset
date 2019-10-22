@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f30b63621bdd8c4998f47a29810dd56, type: 3}
+  m_Name: MetalSword
+  m_EditorClassIdentifier: 
+  itemName: weapon
+  itemInfo: A Conventional Metal Sword that helps you in your journey.
+  icon: {fileID: -2505125261248690692, guid: 445f90fcc359dae449e58de3ac30f5f0, type: 3}
+  weaponName: Metal Sword
+  damage: 3
+  pushForce: 2.5

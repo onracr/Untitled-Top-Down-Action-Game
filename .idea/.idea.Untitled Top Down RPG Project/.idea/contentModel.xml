@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\user\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Untitled Top Down RPG Project.-103470308.00" t="ExcludeRecursive" />
+    <e p="C:\Users\user\Documents\Repos\Unity2D\Projects\Untitled Top Down RPG Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="CameraMotor.cs" t="Include" />
+          <e p="CharacterMenu.cs" t="Include" />
+          <e p="ChestInventory.cs" t="Include" />
+          <e p="Chests.cs" t="Include" />
+          <e p="Collidables.cs" t="Include" />
+          <e p="Damage.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="EnemyHitbox.cs" t="Include" />
+          <e p="Fighter.cs" t="Include" />
+          <e p="FloatingText.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="ICollectables.cs" t="Include" />
+          <e p="Inventory.cs" t="Include" />
+          <e p="IOnClickEvents.cs" t="Include" />
+          <e p="Item.cs" t="Include" />
+          <e p="ItemCurrency.cs" t="Include" />
+          <e p="ItemHealth.cs" t="Include" />
+          <e p="ItemWeapon.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
+          <e p="PersonalInventory.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="Portals.cs" t="Include" />
+          <e p="TextManager.cs" t="Include" />
+          <e p="Weapon.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Untitled Top Down RPG Project.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
