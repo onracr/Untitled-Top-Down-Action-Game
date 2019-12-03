@@ -13,6 +13,7 @@
           <e p="Chests.cs" t="Include" />
           <e p="Collidables.cs" t="Include" />
           <e p="Damage.cs" t="Include" />
+          <e p="DialogueManager.cs" t="Include" />
           <e p="Enemy.cs" t="Include" />
           <e p="EnemyHitbox.cs" t="Include" />
           <e p="Fighter.cs" t="Include" />
