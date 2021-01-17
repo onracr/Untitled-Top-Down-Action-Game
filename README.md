@@ -1,4 +1,4 @@
-# Untitled-Top-Down-Action-Game (WIP)
+# Untitled-Top-Down-Action-Game
 A top-down game made with Unity 
 
 # Roadmap
